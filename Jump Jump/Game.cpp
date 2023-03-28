@@ -18,10 +18,6 @@ Game::Game(sf::RenderWindow& window) :
 	plat.setCordinate();
 }
 
-void Game::update()
-{
-
-}
 
 void Game::draw()
 {
