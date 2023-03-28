@@ -1,0 +1,14 @@
+﻿  Game.cpp
+C:\Users\Home\Desktop\Games\Jump Jump\Game.cpp(33,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Home\Desktop\Games\Jump Jump\Game.cpp(33,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Home\Desktop\Games\Jump Jump\Game.cpp(67,45): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  main.cpp
+  Pers.cpp
+C:\Users\Home\Desktop\Games\Jump Jump\Pers.cpp(25,11): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Home\Desktop\Games\Jump Jump\Pers.cpp(26,7): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Home\Desktop\Games\Jump Jump\Pers.cpp(32,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Home\Desktop\Games\Jump Jump\Pers.cpp(32,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Plat.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\Home\Desktop\Games\Jump Jump\Debug\Jump Jump.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Jump Jump.vcxproj -> C:\Users\Home\Desktop\Games\Jump Jump\Debug\Jump Jump.exe
